@@ -1,0 +1,8 @@
+FOR FUTURE LABS
+
+Create a bank account class
+Include several parameters through UtilityBelt
+Instance variables: name of person, money in their account
+
+-For this one:
+create an array 
